@@ -11,7 +11,7 @@ import org.springframework.web.servlet.i18n.AcceptHeaderLocaleResolver;
 //
 @SpringBootApplication
 public class SpringbootBuildingblocksApplication {
-
+	//
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootBuildingblocksApplication.class, args);
 	}
